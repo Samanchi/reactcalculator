@@ -1,15 +1,19 @@
 {
   "files": {
-    "main.css": "/reactcalculator/static/css/main.8047f91b.css",
-    "main.js": "/reactcalculator/static/js/main.02caf2dd.js",
-    "static/js/787.e062527c.chunk.js": "/reactcalculator/static/js/787.e062527c.chunk.js",
-    "index.html": "/reactcalculator/index.html",
-    "main.8047f91b.css.map": "/reactcalculator/static/css/main.8047f91b.css.map",
-    "main.02caf2dd.js.map": "/reactcalculator/static/js/main.02caf2dd.js.map",
-    "787.e062527c.chunk.js.map": "/reactcalculator/static/js/787.e062527c.chunk.js.map"
+    "main.css": "/portfolio/static/css/main.44dca0b4.css",
+    "main.js": "/portfolio/static/js/main.1ef9055c.js",
+    "static/js/787.dc9ee2bf.chunk.js": "/portfolio/static/js/787.dc9ee2bf.chunk.js",
+    "static/media/Portfolio.jpg": "/portfolio/static/media/Portfolio.5ae0b5f911c2477b7c1b.jpg",
+    "static/media/Facebook.jpg": "/portfolio/static/media/Facebook.2a9c16f21dc67b851a4a.jpg",
+    "static/media/Github.jpg": "/portfolio/static/media/Github.c57e0bdcd091a9bb00de.jpg",
+    "static/media/SamanchiKishoreResume.pdf": "/portfolio/static/media/SamanchiKishoreResume.0ede00e3a01bb2c65932.pdf",
+    "index.html": "/portfolio/index.html",
+    "main.44dca0b4.css.map": "/portfolio/static/css/main.44dca0b4.css.map",
+    "main.1ef9055c.js.map": "/portfolio/static/js/main.1ef9055c.js.map",
+    "787.dc9ee2bf.chunk.js.map": "/portfolio/static/js/787.dc9ee2bf.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.8047f91b.css",
-    "static/js/main.02caf2dd.js"
+    "static/css/main.44dca0b4.css",
+    "static/js/main.1ef9055c.js"
   ]
 }
